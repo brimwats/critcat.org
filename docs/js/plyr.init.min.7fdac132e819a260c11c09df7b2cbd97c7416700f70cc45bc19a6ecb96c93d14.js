@@ -1,0 +1,1 @@
+$(document).ready(function(){if($("#player").length){const a=new Plyr('#player',{settings:['speed']})}})

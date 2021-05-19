@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CritCat.org</title>
+    <link>https://critcat.org/</link>
+    <description>Recent content on CritCat.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 May 2018 21:08:01 +1000</lastBuildDate><atom:link href="https://critcat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://critcat.org/contact/</link>
+      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      
+      <guid>https://critcat.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thanks for Contacting Us</title>
+      <link>https://critcat.org/contact_thanks/</link>
+      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
+      
+      <guid>https://critcat.org/contact_thanks/</guid>
+      <description>Thanks for touching base with us. Feel free to reach out on twitter @brimwats as well.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://critcat.org/posts/hello-world/</link>
+      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
+      
+      <guid>https://critcat.org/posts/hello-world/</guid>
+      <description>Just saying hi!</description>
+    </item>
+    
+    <item>
+      <title>Kids</title>
+      <link>https://critcat.org/kids/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>https://critcat.org/kids/</guid>
+      <description>This is an example of multiple columns.
+Unfortunately it needs the author to write html to work (though I could put everything in the front matter!)
+Left ColumnYou can fill this in with html or *markdown* And another subheadingAdipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.</description>
+    </item>
+    
+    <item>
+      <title>Leaders</title>
+      <link>https://critcat.org/leaders/</link>
+      <pubDate>Mon, 30 Apr 2018 14:27:13 +1000</pubDate>
+      
+      <guid>https://critcat.org/leaders/</guid>
+      <description>This is a page about leaders </description>
+    </item>
+    
+  </channel>
+</rss>
