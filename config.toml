@@ -127,7 +127,7 @@ unsafe = true
     #For formspree, please setup an account at https://formspree.io/
     #If you use formspree, you'll need to set your formspree email address.
     service = "formspree"
-    confirm_page = "/contact_thanks"
+#    confirm_page = "/contact_thanks"
     formspree_email="f/mleajazg"
 
 
