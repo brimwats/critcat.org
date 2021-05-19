@@ -128,7 +128,7 @@ unsafe = true
     #If you use formspree, you'll need to set your formspree email address.
     service = "formspree"
     confirm_page = "/contact_thanks"
-    formspree_email="bmwatson1989@gmail.com"
+    formspree_email="f/mleajazg"
 
 
     [params.footer]
