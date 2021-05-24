@@ -17,24 +17,6 @@
     </item>
     
     <item>
-      <title>ministry</title>
-      <link>https://critcat.org/tags/ministry/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>https://critcat.org/tags/ministry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>two_column</title>
-      <link>https://critcat.org/tags/two_column/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>https://critcat.org/tags/two_column/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>development</title>
       <link>https://critcat.org/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -49,6 +31,24 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://critcat.org/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://critcat.org/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://critcat.org/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://critcat.org/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://critcat.org/tags/hugo/</guid>
       <description></description>
     </item>
     

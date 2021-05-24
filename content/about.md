@@ -1,11 +1,12 @@
 ---
 title: "About"
-subtitle: "About CritCat.org"
-date: 2018-04-30T10:05:49+10:00
-images: ["img/freely-20445.jpg"]
+subtitle: "Information on CritCat Contributors"
+date: 2021-05-23T10:05:49+10:00
 draft: false
 ---
+# Bri Watson
+B.M. ("Bri") Watson is a white queer crip & nonbinary settler living in Tsleil-Waututh. They are a PhD. student at the University of British Columbia's [iSchool](https://ischool.ubc.ca) where they focus on focusing on queer nomenclature, histories of information, and equitable cataloging in GLAMS (galleries, archives, libraries, museums, and special collections). Additionally, they are the  Director of [HistSex.com](https://www.histsex.com), a free and open access resource for the history of sexuality. They serve as the Archivist-Historian of the [Consensual Non-Monogamies Taskforce](https://www.apadivisions.org/division-44/leadership/task-forces/index) of the American Psychological Association and contribute to [Homosaurus](http://homosaurus.org), an international linked data vocabulary for LGBTQ terms.
 
-CritCat is short for “critical cataloging,” a pan-GLAMS[^1] a movement of library workers dedicated to bringing social justice principles into our work in libraries. We aim to engage in discussion about critical perspectives on library practice. Recognizing that we all work under regimes of white supremacy, capitalism, and a range of structural inequalities, how can our work as librarians intervene in and disrupt those systems?
+You can learn more about Bri at https://brimwats.com. You can follow them on twitter [@brimwats](https://twitter.com/brimwats). You can contact them via this form:
 
-[1]: Galleries, Archives, Libraries, Museums, and Special Collections
+{{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}

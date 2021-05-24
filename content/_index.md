@@ -9,11 +9,10 @@
       url = "#feature-icons"
       text = "Find out more"
 
-#Details for the box below the banner
+# Details for the box below the banner
 [services]
-  title = "Church on Sunday"
-  text = "We meet at 5 am and 2 pm at [6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris](https://www.openstreetmap.org/way/201611261)."
-  map_location = "Cathédrale Notre-Dame de Paris"
+  title = "Welcome"
+  text = "CritCat is short for “critical cataloging,” a movement of cultural heritage workers who work to bring social justice, radical empathy, and outreach work into their everyday practice. This site aims to serve as a resource for catalogers and the cataloging-curious."
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
@@ -21,37 +20,40 @@
 
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
   [[feature_icons.tile]]
-    icon = "fa-hands-helping"
-    icon_pack = "fas"
-    accent = "1"
-    title = "Serve"
-    text = "Growing people who serve our community."
-    url = "/kids"
-
-  [[feature_icons.tile]]
-    icon = "fa-church"
+    icon = "fa-book-reader"
     icon_pack = "fas"
     accent = "2"
-    title = "Meet"
-    text = "Meeting together to hear."
+    title = "Resources"
+    text = "The CritCat Zotero Library."
+    url= "/resources"
 
   [[feature_icons.tile]]
-    icon = "fa-comments"
+    icon = "fa-info-circle"
+    icon_pack = "fas"
+    accent = "1"
+    title = "Definitions"
+    text = "More information about critical cataloging."
+    url = "/definitions"
+
+  [[feature_icons.tile]]
+    icon = "fa-user-edit"
     icon_pack = "fas"
     accent = "5"
-    title = "Speak"
-    text = "Speaking encouragement to one-another."
+    title = "Author"
+    text = "More information about this site and its author."
+    url= "/about"
 
   [[feature_icons.tile]]
-    icon = "fa-heartbeat"
+    icon = "fa-mail-bulk"
     icon_pack = "fas"
     accent = "3"
-    title = "Loved"
-    text = "Knowing Love. Being Loved."
+    title = "Contact"
+    text = "Have recommendations or notice missing citations? Reach out here."
+    url= "/contact"
 
 [feature_images]
-#These feature images look best if there's an even number of them.
-  enable = true
+# These feature images look best if there's an even number of them.
+  enable = false
 
   [[feature_images.tile]]
     image = "img/freely-10057.jpg"

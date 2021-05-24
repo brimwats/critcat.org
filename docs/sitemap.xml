@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://critcat.org/contact/</loc>
-    <lastmod>2018-05-12T13:49:50+10:00</lastmod>
+    <loc>https://critcat.org/about/</loc>
+    <lastmod>2021-05-23T10:05:49+10:00</lastmod>
   </url><url>
-    <loc>https://critcat.org/contact_thanks/</loc>
-    <lastmod>2018-05-12T13:38:38+10:00</lastmod>
+    <loc>https://critcat.org/definitions/</loc>
+    <lastmod>2021-05-20T14:27:13+10:00</lastmod>
+  </url><url>
+    <loc>https://critcat.org/contact/</loc>
+    <lastmod>2021-05-12T13:49:50+10:00</lastmod>
+  </url><url>
+    <loc>https://critcat.org/resources/</loc>
+    <lastmod>2021-05-01T07:39:12+10:00</lastmod>
   </url><url>
     <loc>https://critcat.org/</loc>
     <lastmod>2018-05-03T21:08:01+10:00</lastmod>
@@ -22,21 +28,6 @@
   </url><url>
     <loc>https://critcat.org/tags/testing/</loc>
     <lastmod>2018-05-03T21:08:01+10:00</lastmod>
-  </url><url>
-    <loc>https://critcat.org/kids/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url><url>
-    <loc>https://critcat.org/tags/ministry/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url><url>
-    <loc>https://critcat.org/tags/two_column/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url><url>
-    <loc>https://critcat.org/leaders/</loc>
-    <lastmod>2018-04-30T14:27:13+10:00</lastmod>
-  </url><url>
-    <loc>https://critcat.org/about/</loc>
-    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
   </url><url>
     <loc>https://critcat.org/posts/style-guide/</loc>
     <lastmod>2017-11-14T10:57:55-05:00</lastmod>

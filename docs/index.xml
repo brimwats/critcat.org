@@ -8,21 +8,41 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 May 2018 21:08:01 +1000</lastBuildDate><atom:link href="https://critcat.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://critcat.org/about/</link>
+      <pubDate>Sun, 23 May 2021 10:05:49 +1000</pubDate>
+      
+      <guid>https://critcat.org/about/</guid>
+      <description>Bri Watson B.M. (&amp;ldquo;Bri&amp;rdquo;) Watson is a white queer crip &amp;amp; nonbinary settler living in Tsleil-Waututh. They are a PhD. student at the University of British Columbia&amp;rsquo;s iSchool where they focus on focusing on queer nomenclature, histories of information, and equitable cataloging in GLAMS (galleries, archives, libraries, museums, and special collections). Additionally, they are the Director of HistSex.com, a free and open access resource for the history of sexuality. They serve as the Archivist-Historian of the Consensual Non-Monogamies Taskforce of the American Psychological Association and contribute to Homosaurus, an international linked data vocabulary for LGBTQ terms.</description>
+    </item>
+    
+    <item>
+      <title>Definitions</title>
+      <link>https://critcat.org/definitions/</link>
+      <pubDate>Thu, 20 May 2021 14:27:13 +1000</pubDate>
+      
+      <guid>https://critcat.org/definitions/</guid>
+      <description>Confused about terms? This page a work in progress&amp;hellip;
+Glossary CritCat is short for “critical cataloging,” a movement of cultural heritage workers who work to bring social justice, radical empathy, and outreach work into their everyday practice. Recognizing the need for information maintenence and care, critical catalogers read cataloging and classification systems with an eye for catalogic warrant, reflecting on the potential harm or benefit of each term on the catalog, users, and the library community as a whole.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://critcat.org/contact/</link>
-      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      <pubDate>Wed, 12 May 2021 13:49:50 +1000</pubDate>
       
       <guid>https://critcat.org/contact/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thanks for Contacting Us</title>
-      <link>https://critcat.org/contact_thanks/</link>
-      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
+      <title>Resources</title>
+      <link>https://critcat.org/resources/</link>
+      <pubDate>Sat, 01 May 2021 07:39:12 +1000</pubDate>
       
-      <guid>https://critcat.org/contact_thanks/</guid>
-      <description>Thanks for touching base with us. Feel free to reach out on twitter @brimwats as well.</description>
+      <guid>https://critcat.org/resources/</guid>
+      <description>Zotero Database It is highly recommended that you use the Zotero.org version, as that has better formatting and includes sorting options. If that is not an option, there is an automatically-generated list below.
+The main library is divided up into 16 categories/subfolders based on the type of critique or focus they offer. Individual articles can &amp;amp; do belong to multiple categories. All tags on articles are automatically generated and do not reflect the author&amp;rsquo;s view.</description>
     </item>
     
     <item>
@@ -32,26 +52,6 @@
       
       <guid>https://critcat.org/posts/hello-world/</guid>
       <description>Just saying hi!</description>
-    </item>
-    
-    <item>
-      <title>Kids</title>
-      <link>https://critcat.org/kids/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>https://critcat.org/kids/</guid>
-      <description>This is an example of multiple columns.
-Unfortunately it needs the author to write html to work (though I could put everything in the front matter!)
-Left ColumnYou can fill this in with html or *markdown* And another subheadingAdipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.</description>
-    </item>
-    
-    <item>
-      <title>Leaders</title>
-      <link>https://critcat.org/leaders/</link>
-      <pubDate>Mon, 30 Apr 2018 14:27:13 +1000</pubDate>
-      
-      <guid>https://critcat.org/leaders/</guid>
-      <description>This is a page about leaders </description>
     </item>
     
   </channel>

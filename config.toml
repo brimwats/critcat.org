@@ -77,7 +77,7 @@ unsafe = true
 # Paramaters for the whole site
 [params]
   title = "CritCat.org"
-  subtitle = "GLAMS & Critical Cataloging "
+  subtitle = "Critical Cataloging in Galleries, Archives, Libraries, Museums, and Special Collections"
   author = "Brian M. Watson"
   keywords = ["cataloging", "social justice", "museums", "libraries", "archives"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
@@ -93,10 +93,10 @@ unsafe = true
     #lge = "example96.png"
 
   [params.banner]
-    image = "img/banner.jpg"
+    image = "img/erol-ahmed-indexcards-unsplash.jpg"
 
-#  [params.style]
-#    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
+  [params.style]
+    googleFonts = ["Roboto", "Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700"]
 
 #  [params.podcast]
 #    title = "Listen to Alpha Church"
