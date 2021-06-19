@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 May 2018 21:08:01 +1000</lastBuildDate><atom:link href="https://critcat.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Provenance</title>
+      <link>https://critcat.org/provenance/</link>
+      <pubDate>Tue, 15 Jun 2021 07:39:12 +1000</pubDate>
+      
+      <guid>https://critcat.org/provenance/</guid>
+      <description>This resource would not exist if it were not for the following individuals, resources, and communities, who I am very grateful to/wards:
+The folks that I am the most indebeted to are those who introduced me to these conversations:
+  Emily Drabinski, whose article Queering the Catalog: Queer Theory and the Politics of Correction initally introduced me to this work and ideas.
+ Emily&amp;rsquo;s article on Teaching the Radical Catalog is a fantastic resource.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://critcat.org/about/</link>
       <pubDate>Sun, 23 May 2021 10:05:49 +1000</pubDate>
@@ -43,15 +55,6 @@ Glossary CritCat is short for “critical cataloging,” a movement of cultural 
       <guid>https://critcat.org/resources/</guid>
       <description>Zotero Database It is highly recommended that you use the Zotero.org version, as that has better formatting and includes sorting options. If that is not an option, there is an automatically-generated list below.
 The main library is divided up into 16 categories/subfolders based on the type of critique or focus they offer. Individual articles can &amp;amp; do belong to multiple categories. All tags on articles are automatically generated and do not reflect the author&amp;rsquo;s view.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://critcat.org/posts/hello-world/</link>
-      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
-      
-      <guid>https://critcat.org/posts/hello-world/</guid>
-      <description>Just saying hi!</description>
     </item>
     
   </channel>

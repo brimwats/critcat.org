@@ -44,12 +44,12 @@
     url= "/about"
 
   [[feature_icons.tile]]
-    icon = "fa-mail-bulk"
-    icon_pack = "fas"
+    icon = "fa-sourcetree"
+    icon_pack = "fab"
     accent = "3"
-    title = "Contact"
-    text = "Have recommendations or notice missing citations? Reach out here."
-    url= "/contact"
+    title = "Provenance"
+    text = "This resource would not exist if it were not for these predecessors."
+    url= "/provenance"
 
 [feature_images]
 # These feature images look best if there's an even number of them.

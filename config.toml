@@ -41,9 +41,14 @@ unsafe = true
     weight = 3
 
   [[menu.main]]
+    name = "Provenance"
+    url = "/provenance"
+    weight = 4
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 5
 
 ## exmples of submenus
   # [[menu.main]]
@@ -88,15 +93,15 @@ unsafe = true
   customCSS = ["example.css"]
 
   [params.favicon]
-    sml = "/example16.png"
+    sml = "/example24.png"
     med = "/example32.png"
-    #lge = "example96.png"
+    #lge = "/example96.png"
 
   [params.banner]
-    image = "img/erol-ahmed-indexcards-unsplash.jpg"
+    image = "img/card-catalog.jpg"
 
   [params.style]
-    googleFonts = ["Roboto", "Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700"]
+    googleFonts = ["Roboto", "Crimson+Text", "Merriweather", "Playfair+Display:400,700"]
 
 #  [params.podcast]
 #    title = "Listen to Alpha Church"
