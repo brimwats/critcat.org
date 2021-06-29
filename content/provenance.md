@@ -15,6 +15,8 @@ The folks that I am the most indebeted to are those who introduced me to these c
 
 - **Deidre Thompson** and **Treshani Perera**'s [webinar: incorporating critical cataloging into your work](https://www.wehere.space/shop/p/cs004-101-incorporating-critical-cataloging-into-your-work-social-justice-initiatives-series-sknh5). Treshani also compiled the first version of critlib's critical cataloging bibliography (see below).
 
+- **Amber Billey** for her creation of the #critcat hastag, and her brilliant writing and work in this area. 
+
 Other (re)sources found along the way:
 
 - **[Violet B\. Fox](http://violetbfox.info)** was and is responsible for a great deal of work, resources, and community-bulding, especially on twitter @ #critcat. I am indebeted towards her work and resources, of which this is a small selection (see more in the Zotero database)
