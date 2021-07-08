@@ -31,7 +31,7 @@ Other (re)sources found along the way:
 
 - **Karen Snow**'s [Cataloging Ethics Bibliography](https://docs.google.com/document/d/1bHtghhSL54PFlekIwnmHpF9O_2KR_GMq5GWIBgNLKDg/edit)
 
-- **\#LibrariesResist**'s [Cataloging, Metadata, Collecting, and Acquisition Bibliography](https://sites.google.com/site/librariesresist/info/management/cataloging-metadata-collecting-and-acquisition)
+- **LibrariesResist**'s [Cataloging, Metadata, Collecting, and Acquisition Bibliography](https://sites.google.com/site/librariesresist/info/management/cataloging-metadata-collecting-and-acquisition)
 
 - **Cambridge Librarian**'s [Bibliography for cataloguing and classification – Decolonising through critical librarianship](https://decolonisingthroughcriticallibrarianship.wordpress.com/2019/09/09/bibliography-for-cataloguing-and-classification/)
 
