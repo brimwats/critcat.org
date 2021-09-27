@@ -21,6 +21,7 @@ Other (re)sources found along the way:
 
 - **[Violet B\. Fox](http://violetbfox.info)** was and is responsible for a great deal of work, resources, and community-bulding, especially on twitter @ #critcat. I am indebeted towards her work and resources, of which this is a small selection (see more in the Zotero database)
   - The [Cataloging Lab](https://cataloginglab.org/) is a vital source of information and collaboration.
+  - The earliest public document that I am aware of, was the [VRA | EAC Community Hour on Critical Cataloging](https://docs.google.com/document/d/1GcSpTUlOkcsGxxaHY5Qfc6icY7b4p_lP_X34rF5TaXQ/) from June of 2020. It was initially compiled by Devon Murphy, Kendra Werst, Lael Ensor-Bennett and had additional contributions from other VRA Community members  
   - The [critcat | critlib](http://critlib.org/critcat/) resource guide initially compiled by Treshani Perera and updated by Violet B. Fox, is intended to be "a valuable starting point to learn more about the ethics of library cataloging and classification. I was unaware of this resouce when this site was created and am thankful to Violet for pointing it out.
 
 - **S.E. “Shack” Hackney**: [Classification systems and critical cataloging | www.constellations.pitt.edu](https://constellations.pitt.edu/entry/classification-systems-and-critical-cataloging)
@@ -31,7 +32,7 @@ Other (re)sources found along the way:
 
 - **Karen Snow**'s [Cataloging Ethics Bibliography](https://docs.google.com/document/d/1bHtghhSL54PFlekIwnmHpF9O_2KR_GMq5GWIBgNLKDg/edit)
 
-- **LibrariesResist**'s [Cataloging, Metadata, Collecting, and Acquisition Bibliography](https://sites.google.com/site/librariesresist/info/management/cataloging-metadata-collecting-and-acquisition)
+- **LibrariesResist**'s [Cataloging, Metadata, Collecting, and Acquisition Bibliography](https://sites.google.com/site/librariesresist/info/management/cataloging-metadata-collecting-and-acquisition) 
 
 - **Cambridge Librarian**'s [Bibliography for cataloguing and classification – Decolonising through critical librarianship](https://decolonisingthroughcriticallibrarianship.wordpress.com/2019/09/09/bibliography-for-cataloguing-and-classification/)
 
