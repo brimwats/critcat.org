@@ -1,4 +1,4 @@
-baseURL = "critcat.org"
+baseURL = "https://critcat.org"
 languageCode = "en-us"
 title = "CritCat.org"
 theme = "alpha-church"
