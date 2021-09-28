@@ -2,7 +2,7 @@ baseURL = "critcat.org"
 languageCode = "en-us"
 title = "CritCat.org"
 theme = "alpha-church"
-publishDir = "docs"
+publishDir = "public"
 
 rssLimit = 5
 paginate = 4
