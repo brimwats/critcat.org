@@ -6,12 +6,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="Critical Cataloging in Galleries, Archives, Libraries, Museums, and Special Collections">
 		
-		<meta name="keywords" content="go, golang, templates, themes, development" /><meta name="generator" content="Hugo 0.85.0" /><link rel="shortcut icon" href="/example24.png" sizes="16x16"/><link rel="shortcut icon" href="/example32.png" sizes="32x32"/>
+		<meta name="keywords" content="go, golang, templates, themes, development" /><meta name="generator" content="Hugo 0.88.1" /><link rel="shortcut icon" href="/example24.png" sizes="16x16"/><link rel="shortcut icon" href="/example32.png" sizes="32x32"/>
 		<meta property="og:title" content="(Hu)go Template Primer" />
 <meta property="og:description" content="Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/posts/goisforlovers/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="critcat.org/posts/goisforlovers/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2014-04-02T00:00:00+00:00" />
 <meta property="article:modified_time" content="2014-04-02T00:00:00+00:00" /><meta property="og:site_name" content="CritCat.org" />
 
@@ -21,9 +21,9 @@ This document is a brief primer on using go templates." />
 <meta name="twitter:description" content="Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates."/>
 
-		<link rel="stylesheet" href="fontawesome/css/all.min.css" /><link rel="stylesheet" href="//cdn.plyr.io/3.6.3/plyr.css" integrity="sha384-m45O5d2TuOZgtLQsdrmTJccVOtFFSEYIWmwa5SGfFl+EHJwkH4XE+dBehXgGq9An" crossorigin="anonymous"><!--[if lte IE 8]><script src="/js/ie/html5shiv.min.js"></script><link rel="stylesheet" href="/scss/ie8.min.css" /><![endif]-->
+		<link rel="stylesheet" href="critcat.org/fontawesome/css/all.min.css" /><link rel="stylesheet" href="//cdn.plyr.io/3.6.3/plyr.css" integrity="sha384-m45O5d2TuOZgtLQsdrmTJccVOtFFSEYIWmwa5SGfFl+EHJwkH4XE+dBehXgGq9An" crossorigin="anonymous"><!--[if lte IE 8]><script src="/critcat.org/js/ie/html5shiv.min.js"></script><link rel="stylesheet" href="/critcat.org/scss/ie8.min.css" /><![endif]-->
 		
-		<link rel="stylesheet" href="/style.main.min.3b45bd610a48b367082ff1fffa4b0f9cbfadb1b3cd2935d8f5d18a99eecbb3cf.css" integrity="sha256-O0W9YQpIs2cIL/H/&#43;ksPnL&#43;tsbPNKTXY9dGKme7Ls88=" media="screen" crossorigin="anonymous" /><link rel="stylesheet" href="example.css"></head>
+		<link rel="stylesheet" href="/critcat.org/style.main.min.08666bc062c37017f6a2aac4c595c3aad85de9419d3c34ba3238ba3532ae8979.css" integrity="sha256-CGZrwGLDcBf2oqrExZXDqthd6UGdPDS6Mji6NTKuiXk=" media="screen" crossorigin="anonymous" /><link rel="stylesheet" href="critcat.org/example.css"></head>
 
 <body  >
   <div id="page-wrapper">
@@ -37,7 +37,7 @@ This document is a brief primer on using go templates."/>
           
             
                 <li>
-                    <a href="/">
+                    <a href="/critcat.org/">
                          Home
                     </a>
                 </li>
@@ -45,7 +45,7 @@ This document is a brief primer on using go templates."/>
         
             
                 <li>
-                    <a href="/resources">
+                    <a href="/critcat.org/resources">
                          Resources
                     </a>
                 </li>
@@ -53,7 +53,7 @@ This document is a brief primer on using go templates."/>
         
             
                 <li>
-                    <a href="/about">
+                    <a href="/critcat.org/about">
                          About
                     </a>
                 </li>
@@ -61,7 +61,7 @@ This document is a brief primer on using go templates."/>
         
             
                 <li>
-                    <a href="/provenance">
+                    <a href="/critcat.org/provenance">
                          Provenance
                     </a>
                 </li>
@@ -69,7 +69,7 @@ This document is a brief primer on using go templates."/>
         
             
                 <li>
-                    <a href="/contact">
+                    <a href="/critcat.org/contact">
                          Contact
                     </a>
                 </li>
@@ -275,7 +275,7 @@ benefit from having the table of contents provided. Sometimes the TOC just
 doesn&rsquo;t make a lot of sense. We&rsquo;ve defined a variable in our front matter
 of some pages to turn off the TOC from being displayed.</p>
 <p>Here is the example front matter:</p>
-<pre><code>---
+<pre tabindex="0"><code>---
 title: &quot;Permalinks&quot;
 date: &quot;2013-11-18&quot;
 aliases:
@@ -295,7 +295,7 @@ notoc: true
 <p>In your top-level configuration file (eg, <code>config.yaml</code>) you can define site
 parameters, which are values which will be available to you in chrome.</p>
 <p>For instance, you might declare:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">params</span>:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">params</span>:
   <span style="color:#f92672">CopyrightHTML</span>: <span style="color:#e6db74">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span>
   <span style="color:#f92672">TwitterUser</span>: <span style="color:#e6db74">&#34;spf13&#34;</span>
   <span style="color:#f92672">SidebarRecentLimit</span>: <span style="color:#ae81ff">5</span>
@@ -304,20 +304,20 @@ provided if the <code>CopyrightHTML</code> parameter is provided, and if it is g
 you would declare it to be HTML-safe, so that the HTML entity is not escaped
 again.  This would let you easily update just your top-level config file each
 January 1st, instead of hunting through your templates.</p>
-<pre><code>{{if .Site.Params.CopyrightHTML}}&lt;footer&gt;
+<pre tabindex="0"><code>{{if .Site.Params.CopyrightHTML}}&lt;footer&gt;
 &lt;div class=&quot;text-center&quot;&gt;{{.Site.Params.CopyrightHTML | safeHtml}}&lt;/div&gt;
 &lt;/footer&gt;{{end}}
 </code></pre><p>An alternative way of writing the &ldquo;if&rdquo; and then referencing the same value
 is to use &ldquo;with&rdquo; instead. With rebinds the context <code>.</code> within its scope,
 and skips the block if the variable is absent:</p>
-<pre><code>{{with .Site.Params.TwitterUser}}&lt;span class=&quot;twitter&quot;&gt;
+<pre tabindex="0"><code>{{with .Site.Params.TwitterUser}}&lt;span class=&quot;twitter&quot;&gt;
 &lt;a href=&quot;//twitter.com/{{.}}&quot; rel=&quot;author&quot;&gt;
 &lt;img src=&quot;/images/twitter.png&quot; width=&quot;48&quot; height=&quot;48&quot; title=&quot;Twitter: {{.}}&quot;
  alt=&quot;Twitter&quot;&gt;&lt;/a&gt;
 &lt;/span&gt;{{end}}
 </code></pre><p>Finally, if you want to pull &ldquo;magic constants&rdquo; out of your layouts, you can do
 so, such as in this example:</p>
-<pre><code>&lt;nav class=&quot;recent&quot;&gt;
+<pre tabindex="0"><code>&lt;nav class=&quot;recent&quot;&gt;
   &lt;h1&gt;Recent Posts&lt;/h1&gt;
   &lt;ul&gt;{{range first .Site.Params.SidebarRecentLimit .Site.Recent}}
     &lt;li&gt;&lt;a href=&quot;{{.RelPermalink}}&quot;&gt;{{.Title}}&lt;/a&gt;&lt;/li&gt;
@@ -358,6 +358,7 @@ so, such as in this example:</p>
 							  </p>
 							 
 							<p class="meta">Published: April 2, 2014</p>
+							<p class="meta">Updated: April 2, 2014</p>
 							</div>
 						 
 					</div>
@@ -397,18 +398,18 @@ so, such as in this example:</p>
 
 
 <!-- Scripts-HTML5up -->
-<script src="/js/jquery.min.412b8ff9c5ab32b9019fcd84bcd4a54c0e265a14528474f4ee45b27a20abeaeb.js" integrity="sha256-QSuP&#43;cWrMrkBn82EvNSlTA4mWhRShHT07kWyeiCr6us=" crossorigin="anonymous"></script>
-<script src="/js/jquery.dropotron.min.4b0a4c1a278f32f74c140865e40671b5225fcb317ccde6a7ac568b7c1c1acbe0.js" integrity="sha256-SwpMGiePMvdMFAhl5AZxtSJfyzF8zeanrFaLfBway&#43;A=" crossorigin="anonymous"></script>
-<script src="/js/jquery.scrollex.min.fc25b75fb3fc8b42756413be387e0d7a602813125283d2384551961d73ea784e.js" integrity="sha256-/CW3X7P8i0J1ZBO&#43;OH4NemAoExJSg9I4RVGWHXPqeE4=" crossorigin="anonymous"></script>
-<script src="/js/browser.min.87910d5ed0053d90caf83230a2f1811d8679815da01f7bdec7548e776d7f04c4.js" integrity="sha256-h5ENXtAFPZDK&#43;DIwovGBHYZ5gV2gH3vex1SOd21/BMQ=" crossorigin="anonymous"></script>
-<script src="/js/breakpoints.min.309febcd6d6e0cf092201532215f03a6a9f30b30f26203272a4861d704e7cd52.js" integrity="sha256-MJ/rzW1uDPCSIBUyIV8DpqnzCzDyYgMnKkhh1wTnzVI=" crossorigin="anonymous"></script>
-<script src="/js/util.min.ca97617dea9d53dcb46ce4e12a2777be18ca0d483ed44d271c918943e90052a6.js" integrity="sha256-ypdhfeqdU9y0bOThKid3vhjKDUg&#43;1E0nHJGJQ&#43;kAUqY=" crossorigin="anonymous"></script>
-<script src="/js/main.min.4aa30f8b1791940760431e5d7eb1da194824c4a072b00f67807b13cf476429e6.js" integrity="sha256-SqMPixeRlAdgQx5dfrHaGUgkxKBysA9ngHsTz0dkKeY=" crossorigin="anonymous"></script>
+<script src="/critcat.org/js/jquery.min.0925e8ad7bd971391a8b1e98be8e87a6971919eb5b60c196485941c3c1df089a.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="/critcat.org/js/jquery.dropotron.min.4b0a4c1a278f32f74c140865e40671b5225fcb317ccde6a7ac568b7c1c1acbe0.js" integrity="sha256-SwpMGiePMvdMFAhl5AZxtSJfyzF8zeanrFaLfBway&#43;A=" crossorigin="anonymous"></script>
+<script src="/critcat.org/js/jquery.scrollex.min.fc25b75fb3fc8b42756413be387e0d7a602813125283d2384551961d73ea784e.js" integrity="sha256-/CW3X7P8i0J1ZBO&#43;OH4NemAoExJSg9I4RVGWHXPqeE4=" crossorigin="anonymous"></script>
+<script src="/critcat.org/js/browser.min.87910d5ed0053d90caf83230a2f1811d8679815da01f7bdec7548e776d7f04c4.js" integrity="sha256-h5ENXtAFPZDK&#43;DIwovGBHYZ5gV2gH3vex1SOd21/BMQ=" crossorigin="anonymous"></script>
+<script src="/critcat.org/js/breakpoints.min.309febcd6d6e0cf092201532215f03a6a9f30b30f26203272a4861d704e7cd52.js" integrity="sha256-MJ/rzW1uDPCSIBUyIV8DpqnzCzDyYgMnKkhh1wTnzVI=" crossorigin="anonymous"></script>
+<script src="/critcat.org/js/util.min.db0a4206c0f9563e824d23431e9c5a7afbc06610918d145378c5f6bd009e6023.js" integrity="sha256-2wpCBsD5Vj6CTSNDHpxaevvAZhCRjRRTeMX2vQCeYCM=" crossorigin="anonymous"></script>
+<script src="/critcat.org/js/main.min.4aa30f8b1791940760431e5d7eb1da194824c4a072b00f67807b13cf476429e6.js" integrity="sha256-SqMPixeRlAdgQx5dfrHaGUgkxKBysA9ngHsTz0dkKeY=" crossorigin="anonymous"></script>
 <!-- Scripts ALPHA-CHURCH-->
 
 <!--[if lte IE 8]><script src=" {{ $ie.RelPermalink }} "></script><![endif]-->
 
-  <script src="/js/plyr.init.min.3be5f1ff774143f475f19ccae5b7275e967129a5b8bb969f8ec752b849534da0.js" integrity="sha256-O&#43;Xx/3dBQ/R18ZzK5bcnXpZxKaW4u5afjsdSuElTTaA=" crossorigin="anonymous"></script>
+  <script src="/critcat.org/js/plyr.init.min.ec83b65879d622b75dfea571edf8dfdee7c126aae6db1a58ff0d0b7560abc11e.js" integrity="sha256-7IO2WHnWIrdd/qVx7fjf3ufBJqrm2xpY/w0LdWCrwR4=" crossorigin="anonymous"></script>
   <script src="//cdn.plyr.io/3.6.3/plyr.polyfilled.js" integrity="sha384-pjdJdX22j79Dad+talS8QAz8CsXB1v9F6bnwk89YEEaKrMJpuAsg2kGRYiIxhLHU" crossorigin="anonymous"></script>
 
 
