@@ -12,7 +12,7 @@
 # Details for the box below the banner
 [services]
   title = "Welcome"
-  text = "CritCat is short for “critical cataloging,” a movement of cultural heritage workers who work to bring social justice, radical empathy, and outreach work into their everyday practice. This site aims to serve as a resource for catalogers and the cataloging-curious."
+  text = "CritCat is short for “critical cataloging,” a movement of cultural heritage workers who work to bring social justice, radical empathy, and outreach work into their everyday practice. This site aims to serve as a resource for catalogers and the cataloging-curious. This resource is being updated on an ongoing basis."
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.

@@ -17,15 +17,16 @@ The main library is divided up into 16 categories/subfolders based on the type o
 - **Case Studies**: The newest category; meant to serve as a repository for case studies 
 - **Disability**: Articles that take up disability as their central loci of focus
 - **Equity Equality Ethics Social Justice Generally**: Articles that focus or claim to focus primarily on Ethics, Equality, Equity, or Social Justice. 
+- **Ethical Codes**: A collection of professional organization ethical codes or guidelines.
 - **Gender & Sex**: Articles that focus specifically on Gender and (biological) Sex. I am considering combining this category with the Queer category below to make a Gender, Sex, and Sexuality category; feedback welcomed on this. 
+- **Historical Context & Reviews**: Articles that use a historical lens to analyze catalog/ing and/or classification, or articles that are literature reviews of the field.
 - **Indigenous**: Articles that primarily take up First Nations, Aboriginal, Native American or other Indigenous topics.
 - **Library Statements**: This section is largely credit to Violet Fox's efforts at the Cataloging Lab to collect statements on bias in library and archives description: https://cataloginglab.org/list-of-statements-on-bias-in-library-and-archives-description/
 - **Metadata Departments Mission Statements**: This section is largely credit to Violet Fox's efforts at the Cataloging Lab to collect Metadata Library Mission Statements: https://cataloginglab.org/list-of-metadata-departments-mission-statements/
-- **Non-English**: Articles that take up topics related to foreign (non-English) languages as their central loci of focus
-- **GLAMS-Archives**: Articles that focus specifically on Archives. New category that needs to be built out more.
-- **GLAMS-Museums**: Articles that focus specifically on Museums/Galleries. New category that needs to be built out more.
-- **GLAMS-Museums**: Articles that focus specifically on Special Collections. New category that needs to be built out more.
-- **Professional Org Ethical Codes**: A collection of professional organization ethical codes or guidelines.
+- **Others (Immigration, Politics, Religion & More) and Non-English**: Articles that take up topics related to additional topics not covered above, including those that focus on non-English languages.
+- **Other GLAMS-Archives**: Articles that focus specifically on Archives. New category that needs to be built out more.
+- **Other GLAMS-Museums**: Articles that focus specifically on Museums/Galleries. New category that needs to be built out more.
+- **Other Bibliographies**: A list of bibliographies focusing on this topic or related ones. Work in progress.
 - **Queer**: Articles that focus specifically on LGBTQIA2S+ Topics. I am considering combining this category with the Gender & Sex category above to make a Gender, Sex, and Sexuality category; feedback welcomed on this. 
 - **Race**: Articles that primarily focus on issues of race and cataloging & classification.
 - **Strategies**: Articles that offer strategies for ameiloriating bias, ideas on how to move forward, and so on. 
@@ -34,6 +35,6 @@ The main library is divided up into 16 categories/subfolders based on the type o
 
 ## Bibliography Preview
 
-*This is an automatically-generated preview of the Zotero library provided by [BibBase](https://bibbase.org/).*
+*The automatically-generated preview of the Zotero library provided by [BibBase](https://bibbase.org/) is below. It may take a moment to fully load.*
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F2649517%2Fitems%3Fkey%3DeXlH21iuTk2Asw9XoObiURDe%26format%3Dbibtex%26limit%3D100&jsonp=1&theme=mila&fullnames=1&sort=InCollection&hidemenu=true"></script>

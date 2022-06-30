@@ -37,3 +37,5 @@ Other (re)sources found along the way:
 - **Cambridge Librarian**'s [Bibliography for cataloguing and classification – Decolonising through critical librarianship](https://decolonisingthroughcriticallibrarianship.wordpress.com/2019/09/09/bibliography-for-cataloguing-and-classification/)
 
 - **Archives for Black Lives in Philadelphia** [Anti-racist Description Resources](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf)
+
+- **Added 2022-06-30**: The resources in the [Social Justice in Cataloging Annotated Bibliography](https://ir.library.illinoisstate.edu/fpml/141/) by Jeremy Berg, University of North Texas, Cathy Chapman, Saint Martin's University, Gretchen Neidhardt, Chicago History Museum, Stephanie Porrata, The Ohio State University, Jennifer Young, Northwestern University, Eric Willey, Illinois State University.
